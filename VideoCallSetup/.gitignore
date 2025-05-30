@@ -1,0 +1,17 @@
+Temp/
+UserSettings/
+Library/
+Logs/
+obj/
+Build/
+.vs/
+.vsconfig
+*.csproj
+*.sln
+/.utmp
+RuntimeActionBindings.json
+RuntimeActionBindings.json.meta
+ProjectSettings\Packages\com.unity.testtools.codecoverage\Settings.json
+PerformanceTestRun*.*
+StreamingAssets*
+!NativeSamples.zip
